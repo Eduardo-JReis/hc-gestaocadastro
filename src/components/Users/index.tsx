@@ -1,4 +1,4 @@
-import { Flex, Heading, Text, Box } from '@chakra-ui/react';
+import { Flex, Heading, Box } from '@chakra-ui/react';
 import {FormClient} from '../FormClient'
 
 import {Header} from '../Header';

@@ -1,6 +1,6 @@
 import {useState} from 'react';
 
-import { FormControl, FormLabel, Input, Select, Button, Flex, Text, Stack, Heading} from '@chakra-ui/react';
+import { FormLabel, Input, Button, Flex, Stack} from '@chakra-ui/react';
 
 interface ProductData{
   nome?: string;

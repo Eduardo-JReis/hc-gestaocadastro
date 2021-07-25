@@ -1,4 +1,4 @@
-import { Flex, Box, Image, Stack, Text, Button } from '@chakra-ui/react';
+import { Flex, Image, Stack, Text, Button } from '@chakra-ui/react';
 import { Link } from 'react-router-dom';
 import { Header } from '../Header';
 import { Footer } from '../Footer';
